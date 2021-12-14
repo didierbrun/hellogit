@@ -1,2 +1,3 @@
 name = input("Quel est ton nom ?")
-print("Hello ", name)
+firstname = input("Quel est ton prénom ?")
+print("Hello", firstname, name)
